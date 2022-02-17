@@ -1,0 +1,26 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $gray;
+  border-top: 2px solid $light-gray;
+
+  p {
+    color: $very-light-gray;
+  }
+  button {
+    border: none;
+    border-radius: 25px;
+    background-color: $yellow;
+    color: $dark-gray;
+    font-weight: 500;
+    font-size: 16px;
+    width: 125px;
+    padding: 15px 0;
+  }
+}
