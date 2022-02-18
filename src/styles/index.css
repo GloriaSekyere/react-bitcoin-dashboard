@@ -40,12 +40,13 @@
   display: -ms-grid;
   display: grid;
   place-content: center;
-  padding: 15px 0;
+  padding: 5px 0;
+  height: 75px;
 }
 
 .main .price-div p {
   color: #ffffff;
-  font-size: 50px;
+  font-size: 45px;
 }
 
 .main .graph {
@@ -120,5 +121,6 @@ body {
   font-family: "Rubik", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #1f2630;
 }
 /*# sourceMappingURL=index.css.map */

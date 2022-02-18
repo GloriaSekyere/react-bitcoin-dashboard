@@ -24,11 +24,12 @@
     background-color: $red;
     display: grid;
     place-content: center;
-    padding: 15px 0;
+    padding: 5px 0;
+    height: 75px;
 
     p {
       color: $white;
-      font-size: 50px;
+      font-size: 45px;
     }
   }
 
